@@ -1,4 +1,4 @@
-# Simple_weather_with_cleanarchitecture
+# Simple_weather_with_cleanArchitecture
 
 Just Simple Get current weather App With clean Architecture 
 
