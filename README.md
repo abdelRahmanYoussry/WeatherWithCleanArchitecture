@@ -1,16 +1,19 @@
 # weather_with_cleanarchitecture
 
-A new Flutter project.
+Just Simple Get current weather App With clean Architecture 
 
-## Getting Started
+Photo1
 
-This project is a starting point for a Flutter application.
+![clean Architecture 1](https://user-images.githubusercontent.com/92960112/194065837-fc4d67dd-8c69-4aba-b307-995d232a5bac.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Photo2
+
+![clean Architecture 2](https://user-images.githubusercontent.com/92960112/194066015-513f2a79-fd60-49bc-b378-aff96a92ec5c.png)
+
+
+Packges
+Just Dio
+
+
